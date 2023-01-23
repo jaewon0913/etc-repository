@@ -257,9 +257,7 @@ public static void main(String[] args){
 - 마크다운에서는 순수 HTML 형식도 가능하다.
 ```
 <img alt="jaewon" src="resources/images/jaewon_profile.jpg" width="300" height="300"></img>
-<p>
-이글은 <span style=color:red'>마크다운</span>가이드입니다.
-</p>
+이글은 <span style="color:red">마크다운</span> 가이드입니다.
 ```
 ---
 이글은 <span style="color:red">마크다운</span> 가이드입니다.
