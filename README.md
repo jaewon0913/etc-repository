@@ -114,7 +114,7 @@ https://dev-jwblog.tistory.com/
 2. <img alt="대체텍스트" src="경로" width="300" height="300"></img>
 ```
 ---
-![jaewon](resources/images/jaewon_profile.jpg)
+![jaewon](resources/images/jaewon_profile.jpg)  
 <img alt="jaewon" src="resources/images/jaewon_profile.jpg" width="300" height="300"></img>
 ---
 ### 8-2. 혼합 사용법
@@ -124,7 +124,7 @@ https://dev-jwblog.tistory.com/
 [![jaewon](/resources/images/jaewon_profile.jpg)](https://dev-jwblog.tistory.com/)
 ```
 ---
-- 클릭하면 블로그로 이동하게 됩니다.
+- 클릭하면 블로그로 이동하게 됩니다.  
 [![jaewon](/resources/images/jaewon_profile.jpg)](https://dev-jwblog.tistory.com/)
 ---
 
@@ -261,6 +261,6 @@ public static void main(String[] args){
 이글은 <span style=color:red'>마크다운</span>가이드입니다.
 </p>
 ```
-<p>
+---
 이글은 <span style=color:red>마크다운</span> 가이드입니다.
-</p>
+---
