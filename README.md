@@ -262,5 +262,6 @@ public static void main(String[] args){
 </p>
 ```
 ---
-이글은 <span style=color:red>마크다운</span> 가이드입니다.
+이글은 <span style="color:red">마크다운</span> 가이드입니다.
+
 ---
